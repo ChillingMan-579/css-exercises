@@ -1,0 +1,12 @@
+.yellow, .green{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.green{
+    background-color: rgb(123, 206, 55);
+    color: rgb(255, 255, 98);
+}
+.yellow{
+    background-color: rgb(255, 255, 98);
+    color: rgb(123, 206, 55);
+}

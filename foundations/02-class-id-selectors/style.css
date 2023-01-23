@@ -1,0 +1,19 @@
+p{
+    background-color: pink;
+    font-family: (Verdana, "DejaVu sans", sans-serif);
+}
+
+#num2{
+    color: rgb(88, 88, 226);
+    font-size: 36px;
+}
+
+#num3{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: rgb(111, 223, 111);
+    font-weight: 700;
+    font-size: 24px;
+}
